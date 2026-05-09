@@ -1,0 +1,8 @@
+target/
+tomcat.*/
+.settings/
+.classpath
+.project
+.idea/
+dependency-reduced-pom.xml
+*.class
