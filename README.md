@@ -27,5 +27,5 @@ les ajouter au panier et passer des commandes.
 
 java -jar target/MoroccoCraft.jar
 
-Accéder à : http://localhost:8081/moroccocraft/LoginController
+Accéder à : https://mayana08-moroccocraft.hf.space/moroccocraft/LoginController
 
