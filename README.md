@@ -1,1 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LMwW9Bjl)
+# 🧶 MoroccoCraft
+
+Plateforme e-commerce d'artisanat marocain développée en Java Jakarta EE
+
+## 📖 Description
+
+MoroccoCraft est une application web n-tiers permettant aux artisans marocains
+de vendre leurs créations en ligne. Les acheteurs peuvent parcourir les produits,
+les ajouter au panier et passer des commandes.
+
+## 🚀 Technologies utilisées
+
+- Java Jakarta EE (Servlets + JSP)
+- Apache Tomcat embarqué
+- pstgresql supabase
+- Maven
+- HTML / CSS
+
+## 👥 Rôles utilisateurs
+
+- BUYER : consulter produits, panier, commander
+- ARTISAN : soumettre et gérer ses produits
+- ADMIN : valider produits et artisans
+
+
+## ▶️ Lancer l'application
+
+java -jar target/MoroccoCraft.jar
+
+Accéder à : http://localhost:8081/moroccocraft/LoginController
+
